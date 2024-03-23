@@ -1,5 +1,5 @@
 # Tools
-git clone https://github.com/EngineerRancho/Network_scanner
+git clone https://github.com/HimanshuTools/Network_scanner
 
 cd Network_scanner
 
